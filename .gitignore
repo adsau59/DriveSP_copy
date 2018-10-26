@@ -1,0 +1,5 @@
+__pycache__/
+linux/**
+win/**
+/copy.bat
+out/**
